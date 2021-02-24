@@ -29,4 +29,5 @@ Mateusz , 27 y/o, eager to start commercial work in C++/embedded.
 <p align="center">
   <a href="https://www.linkedin.com/in/mateusz-krajnik/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&amp;style=flat-square"/></a>
   <a href="mailto:mateusz.krajnik@protonmail.com"><img alt="email" src="https://img.shields.io/badge/EMail-0077B5?logo=e-mail&logoColor=white&amp;style=flat-square"/></a>
+  <a href="https://www.codewars.com/users/mEfiu"><img alt="CodeWars" src="https://img.shields.io/badge/CodeWars-red?logo=CodeWars&logoColor=Blacke&amp;style=flat-square"/></a>
 </p>
