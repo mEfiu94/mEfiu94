@@ -4,8 +4,8 @@
 Mateusz , 27 y/o, eager to start commercial work in C++/embedded.
 
 ### 📆 Updates
-- 🔭 I’m currently working on: Snake in UE4
-- 🌱 I’m currently learning: Unreal Engine 4 
+- 🔭 I’m currently working on: Snake in UE4 and OpenGL training
+- 🌱 I’m currently learning: Unreal Engine 4, OpenGL 
 - 👯 I’m looking to collaborate on: Open Source projects, C++/C embedded projects using ARM microcontrolers
 - ⚡ Fun fact: I was working as a PLC programmer developing software for power plants control systems
 
