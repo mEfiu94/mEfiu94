@@ -1,13 +1,11 @@
 # 👍My code stash
 
 ### 👀Short info about me
-Mateusz , 27 y/o, currently working in gamedev.
+Mateusz , 28 y/o, currently working in gamedev.
 
 ### 📆 Updates
-- 🔭 I’m currently working on: UE4 and OpenGL skills
-- 🌱 I’m currently learning: Unreal Engine 4
+- 🌱 I’m currently learning: Unreal Engine 5
 - 👯 I’m looking to collaborate on: Open Source projects, C++/C
-- ⚡ Fun fact: I was working as a PLC programmer developing software for power plants control systems
 
 ### 🔨 Tech Stack
 
